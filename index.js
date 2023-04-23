@@ -18,7 +18,7 @@ const App = () => {
         <div class="col">
           <h2>Enter Words</h2>
           <p>
-            <label for="words">Enter list of words:</label>
+            <label for="words">Paste words here, one per line:</label>
           </p>
           <textarea
             ref={wordsTextAreaRef}
